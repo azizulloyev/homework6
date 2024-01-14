@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+ul ol{
+    list-style-type: none;
+}
+.mode_btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 50%;
+    font-size: 16px;
+    color: wheat;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 178px;
+}
+.head_avat{
+    margin-right: 40px;
+}
+.head_item{
+    color: black;
+    margin-bottom: 15px;
+}
+.head_item_icon{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.center_list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A3ABB2;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 48px;
+}
+.center_list_text{
+    margin-right: 90px;
+}
+.center_btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 47px;
+}
+.c_b{
+    border-radius: 10px;
+    background: #FFE071;
+    width: 290px;
+    height: 80px;
+    flex-shrink: 0;
+     color: black;
+     font-size: 25px;
+     margin-right: 32px;
+}
+.c_b2{
+    border-radius: 10px;
+    border: 0px solid #3E64AA;
+    background: #171F26;
+    width: 290px;
+    height: 80px;
+    flex-shrink: 0;
+    color: white;
+    font-size: 25px;
+}
+.mode_btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 71px;
+}
+.mode_b{
+    width: 349.595px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #171F26;
+    color: #A3ABB2;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+}
+.projects_box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 42px;
+    margin-top: 45px;
+}
+.projects_box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 42px;
+}
+.projects_box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 42px;
+}
+.pro_list{
+    margin-right: 32px;
+}
